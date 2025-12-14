@@ -2,10 +2,11 @@
 
 ## About
 
-### I am always junior since I always try many new things that interest me
+### A Capable Full Stack Web Developer
 
-- 📚 <b>Information and Communication Technology's</b> undergraduate student at <b>Rangsit University</b>
+### Eager To Learn Any New Technology
 
+- 📚 <b>Bachelor's Degree of Information and Communication Technology</b> at <b>Rangsit University</b>
 
 ## Skills Specialty
 
