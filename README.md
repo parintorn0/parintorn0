@@ -26,9 +26,9 @@
 
 <div style="display: flex; gap: 2em; align-items: center;">
 
-[![Most Used Languanges](https://github-readme-stats-opal-chi.vercel.app/api/top-langs/?username=parintorn0&exclude_repo=cfp-project-frontend&layout=donut&theme=catppuccin_mocha)](https://github.com/parintorn0?tab=repositories)
+[![Most Used Languanges](https://github-stats-extended-one-rouge.vercel.app/api/top-langs/?username=parintorn0&layout=donut&theme=catppuccin_mocha)](https://github.com/parintorn0?tab=repositories)
 
-![Parintorn Thammasitboon's GitHub Stats](https://github-stats-extended-puce.vercel.app/api?username=parintorn0&show_icons=true&theme=catppuccin_mocha)
+![Parintorn Thammasitboon's GitHub Stats](https://github-stats-extended-one-rouge.vercel.app/api?username=parintorn0&show_icons=true&theme=catppuccin_mocha)
 
 </div>
 
